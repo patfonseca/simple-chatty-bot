@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Project exclude paths
+/VirtualEnvironment/
+# Datasource local storage ignored files
+/../../../../../../:\Users\patfo\PycharmProjects\Simple Chatty Bot\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
